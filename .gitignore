@@ -1,0 +1,5 @@
+# Ignore all .jpg files in data/ and its subdirectories
+data/**/**/*.jpg
+data/stanford_cars/cars_train/**/*.jpg
+data/stanford_cars/cars_test/**/*.jpg
+.ipynb_checkpoints/
